@@ -1,5 +1,5 @@
 # vue2
-ole
+ole 
 ## Project setup
 ```
 npm install
